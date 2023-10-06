@@ -113,22 +113,3 @@ body{
 }
 
     
-/* MEDIA QUERIES */
-
-@media(max-width:375px){
-
-    body{
-        padding: 200px;
-    }
-
-    .container{
-        
-        display: flex;
-        flex-direction: column;
-        margin: 20px 300px;
-    };
-
-    
-
-
-}
